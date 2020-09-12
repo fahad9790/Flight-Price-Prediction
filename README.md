@@ -26,4 +26,3 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the predicte
 
 Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (error)
 
-Score = 1 – error
